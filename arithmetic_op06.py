@@ -1,10 +1,9 @@
 #Create a variable called 'number' and assign any value of int to it.
 number = 32
 #Divide the number by 2 and assign number.
-n1 = number/2
+number= number/2
 #Find the fraction of the number and assign to a variable called 'answer'.
-answer = n1
+answer=number %1*10
 #Print the answer.
 print(answer)
 #Print the number.
-print(n1)
